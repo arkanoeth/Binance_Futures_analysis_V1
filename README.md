@@ -106,10 +106,23 @@ The **"Mean Movement by Hour"** shows us how much the cryptocurrency moved on av
 
 ![image](https://user-images.githubusercontent.com/62271657/233519620-2605c1a8-dc12-41e0-935a-6793db0e0db3.png)
 
+# Limitations:
+
+-Only analyzes hourly price data, which may not be sufficient for some users who require more granular or long-term data.
+
+-Only provides correlation analysis and some basic statistics, but does not take into account other factors that may affect cryptocurrency prices, such as news, social media sentiment, or regulatory changes.
+
+-This tool assumes that the past performance of cryptocurrencies is indicative of their future performance, which may not always be the case.
+
+-Only analyzes a specific set of cryptocurrencies and may not be relevant for users who want to analyze other cryptocurrencies or assets.
+
+-**Having the data is certainly valuable, but without adequate knowledge of risk management, your investment strategy may not be effective. Therefore, it is crucial to utilize a robust risk management strategy while investing to mitigate potential risks and ensure successful outcomes.**
+
+# Future improvements:
+
+-Could include additional data sources or indicators, such as social media data, news sentiment analysis, or market data from other exchanges.
+-Could include more advanced statistical models, such as machine learning algorithms, to better predict cryptocurrency prices and market trends.
+-**This tool definitely should include a better user experience by adding a graphical interface, allowing users to easily view this data and interact with it in real-time.**
 
 
-
-
-
-
-
+**This tool is intended for educational purposes only. The creator cannot be held responsible for any outcomes that may arise from its use in actual trading.**
