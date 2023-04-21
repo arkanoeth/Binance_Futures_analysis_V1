@@ -18,7 +18,7 @@ matplotlib==3.5.1.
 
 # Input data
 
-The code requires hourly price data, which is provided in the *_"hourly_data_raw.csv"_* file. This file contains price data for 120 cryptocurrencies over a 1-year time span.
+The code requires hourly price data, which is provided in the *_hourly_data_raw.csv_* file. This file contains price data for 120 cryptocurrencies over a 1-year time span.
 
 The *_raw_data_reader.py_* code reads the file, sorts the data into a more convenient format for calculations, and creates the *_crypto_hourly_data.csv_* file.
 
@@ -56,7 +56,7 @@ This method estimates the mean movement by hour of the normalized prices series.
 
 This method estimates the mean movement in absolute value by hour of the normalized prices series. This is a measure of the price movement strength by hour.
 
-The excel_generator.py module is responsible for formatting the output excel file where all the data is presented.
+The *_excel_generator.py_* module is responsible for formatting the output excel file where all the data is presented.
 
 # Running the Code
 
@@ -66,11 +66,13 @@ The process_futures_data.py script runs everything together. To execute it from 
 
 # Output Data
 
-The code provides an .xlsx file with an index to navigate it. The following sheets are included:
+The code provides an .xlsx file with an index to navigate it. 
+
+The following sheets are included:
 
 ![image](https://user-images.githubusercontent.com/62271657/233517973-982161e3-9d37-471c-978d-29c15d7bc113.png)
 
-On the second sheet, we have the **hourly movement**.
+On the second sheet, we have the **"hourly movement"**.
 
 ![image](https://user-images.githubusercontent.com/62271657/233518121-10c84e77-14c9-4644-84ba-f6741a35de41.png)
 
