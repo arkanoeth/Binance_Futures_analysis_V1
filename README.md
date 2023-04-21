@@ -18,9 +18,9 @@ matplotlib==3.5.1.
 
 # Input data
 
-The code requires hourly price data, which is provided in the "hourly_data_raw.csv" file. This file contains price data for 120 cryptocurrencies over a 1-year time span.
+The code requires hourly price data, which is provided in the *_"hourly_data_raw.csv"_* file. This file contains price data for 120 cryptocurrencies over a 1-year time span.
 
-The raw_data_reader.py code reads the file, sorts the data into a more convenient format for calculations, and creates the crypto_hourly_data.csv file.
+The *_raw_data_reader.py_* code reads the file, sorts the data into a more convenient format for calculations, and creates the *_crypto_hourly_data.csv_* file.
 
 # Data Processing
 
