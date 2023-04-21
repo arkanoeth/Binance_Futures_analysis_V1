@@ -121,7 +121,9 @@ The **"Mean Movement by Hour"** shows us how much the cryptocurrency moved on av
 # Future improvements:
 
 -Could include additional data sources or indicators, such as social media data, news sentiment analysis, or market data from other exchanges.
+
 -Could include more advanced statistical models, such as machine learning algorithms, to better predict cryptocurrency prices and market trends.
+
 -**This tool definitely should include a better user experience by adding a graphical interface, allowing users to easily view this data and interact with it in real-time.**
 
 
