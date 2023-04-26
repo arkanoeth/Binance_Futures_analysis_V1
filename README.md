@@ -128,5 +128,6 @@ The **"Mean Movement by Hour"** shows us how much the cryptocurrency moved on av
 
 -**This tool definitely should include a better user experience by adding a graphical interface, allowing users to easily view this data and interact with it in real-time.**
 
+If you have any doubts do not hesitate to contact me, I´m happy to help you!
 
 **This tool is intended for educational purposes only. The creator cannot be held responsible for any outcomes that may arise from its use in actual trading.**
