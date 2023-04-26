@@ -6,15 +6,15 @@ This tool is designed to analyze the cryptocurrency market and provide better to
 
 To run this code you need to have the following dependencies installed: 
 
-numpy==1.22.0,  
+numpy=1.22.0,  
 
-openpyxl==3.0.9, 
+openpyxl=3.0.9, 
 
-pandas==1.3.5, 
+pandas=1.3.5, 
 
-pytest==6.2.5, 
+pytest=6.2.5, 
 
-matplotlib==3.5.1.
+matplotlib=3.5.1.
 
 # Input data
 
